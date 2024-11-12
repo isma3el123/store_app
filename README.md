@@ -1,7 +1,16 @@
 # store_app
 
-A new Flutter project.
+Welcome, thank you for visiting.
 
+I hope this project is useful.
+
+The idea of ​​this project is an application that helps the user buy products in addition to the authentication process and many other things.
+
+The Cubit state management technology was used
+
+And connection to the API.
+
+I hope you like this. Scroll down to see the project images.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
