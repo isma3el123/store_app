@@ -13,9 +13,6 @@ And connection to the API.
 I hope you like this. Scroll down to see the project images.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 ![Untitled-3](https://github.com/user-attachments/assets/74299ed2-5338-46ae-bf61-485c639d6ebf)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
